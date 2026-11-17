@@ -1,0 +1,701 @@
+[
+  {
+    "id": 1,
+    "n": "Shakshuka com espinafre",
+    "e": "🍳",
+    "c": "#e9c9b3",
+    "t": 25,
+    "m": "Brunch",
+    "v": 1,
+    "i": ["tomate","ovos","espinafre","cebola","alho","pimentão","páprica"],
+    "l": [
+      "4 tomates maduros médios picados",
+      "4 ovos",
+      "2 xícaras de espinafre fresco (cerca de 100 g)",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1 pimentão vermelho médio picado",
+      "1 colher de chá de páprica",
+      "2 colheres de sopa de azeite"
+    ],
+    "s": [
+      "Refogue cebola, alho e pimentão no azeite.",
+      "Junte tomate e páprica e cozinhe até engrossar.",
+      "Adicione o espinafre, abra covas e quebre os ovos.",
+      "Tampe até as claras firmarem."
+    ]
+  },
+  {
+    "id": 2,
+    "n": "Omelete da horta",
+    "e": "🥚",
+    "c": "#ecdcae",
+    "t": 15,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["ovos","espinafre","tomate","cebola"],
+    "l": [
+      "3 ovos",
+      "1 xícara de espinafre picado (50 g)",
+      "1 tomate pequeno picado",
+      "1/2 cebola pequena picada",
+      "1 colher de chá de azeite",
+      "1 pitada de sal",
+      "1 pitada de pimenta-do-reino"
+    ],
+    "s": [
+      "Bata os ovos com sal e pimenta.",
+      "Refogue cebola, tomate e espinafre.",
+      "Despeje os ovos, cozinhe em fogo baixo e dobre."
+    ]
+  },
+  {
+    "id": 3,
+    "n": "Tomates recheados ao forno",
+    "e": "🍅",
+    "c": "#ebc2b6",
+    "t": 30,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["tomate","espinafre","cebola","alho","ricota"],
+    "l": [
+      "4 tomates grandes e firmes",
+      "1 xícara de espinafre picado (50 g)",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "150 g de ricota amassada",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Retire a polpa dos tomates.",
+      "Refogue a polpa com cebola, alho e espinafre; misture a ricota.",
+      "Recheie e asse a 200 °C por 20 minutos."
+    ]
+  },
+  {
+    "id": 4,
+    "n": "Arroz de forno com queijo",
+    "e": "🍚",
+    "c": "#efe0c0",
+    "t": 40,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["arroz","queijo","tomate","cebola","alho"],
+    "l": [
+      "2 xícaras de arroz cozido",
+      "1 xícara de queijo muçarela ralado (100 g)",
+      "2 tomates médios picados",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Refogue cebola e alho, junte o arroz cozido e o tomate.",
+      "Cubra com queijo.",
+      "Gratine no forno por 15 minutos."
+    ]
+  },
+  {
+    "id": 5,
+    "n": "Panqueca de espinafre",
+    "e": "🥞",
+    "c": "#cfe0c4",
+    "t": 30,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["ovos","leite","espinafre","queijo"],
+    "l": [
+      "2 ovos",
+      "1/2 xícara de leite (120 ml)",
+      "1 xícara de espinafre (50 g)",
+      "4 fatias de queijo muçarela (80 g)",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Bata ovos, leite e espinafre no liquidificador.",
+      "Frite porções finas na frigideira.",
+      "Recheie com queijo e dobre."
+    ]
+  },
+  {
+    "id": 6,
+    "n": "Sopa cremosa de tomate",
+    "e": "🍲",
+    "c": "#efc3a8",
+    "t": 35,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["tomate","cebola","alho","leite"],
+    "l": [
+      "6 tomates maduros (cerca de 700 g)",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1/2 xícara de leite (120 ml)",
+      "1/2 xícara de água (120 ml)",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Refogue cebola e alho.",
+      "Cozinhe os tomates por 15 minutos.",
+      "Bata e finalize com leite."
+    ]
+  },
+  {
+    "id": 7,
+    "n": "Frango com arroz e tomate",
+    "e": "🍗",
+    "c": "#e6cda8",
+    "t": 45,
+    "m": "Almoço",
+    "v": 0,
+    "i": ["frango","arroz","tomate","cebola","alho"],
+    "l": [
+      "400 g de peito de frango em cubos",
+      "1 xícara de arroz cru",
+      "2 tomates médios picados",
+      "1 cebola média picada",
+      "3 dentes de alho picados",
+      "2 xícaras de água (480 ml)",
+      "2 colheres de sopa de azeite",
+      "1 colher de chá de sal"
+    ],
+    "s": [
+      "Doure o frango temperado.",
+      "Refogue cebola e alho, junte tomate e arroz.",
+      "Cubra com água e cozinhe até secar."
+    ]
+  },
+  {
+    "id": 8,
+    "n": "Ovos mexidos cremosos",
+    "e": "🍳",
+    "c": "#f1e2b8",
+    "t": 10,
+    "m": "Brunch",
+    "v": 1,
+    "i": ["ovos","leite","queijo"],
+    "l": [
+      "3 ovos",
+      "2 colheres de sopa de leite",
+      "2 colheres de sopa de queijo ralado",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Bata os ovos com leite.",
+      "Cozinhe mexendo em fogo baixo.",
+      "Finalize com queijo ralado."
+    ]
+  },
+  {
+    "id": 9,
+    "n": "Macarrão alho e óleo",
+    "e": "🍝",
+    "c": "#efe0c0",
+    "t": 15,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["macarrão","alho","azeite","pimenta"],
+    "l": [
+      "200 g de macarrão espaguete",
+      "4 dentes de alho fatiados",
+      "4 colheres de sopa de azeite",
+      "1 pitada de pimenta-do-reino",
+      "1/2 xícara da água do cozimento (120 ml)",
+      "1 colher de sopa de sal para a água"
+    ],
+    "s": [
+      "Cozinhe o macarrão al dente.",
+      "Doure o alho fatiado no azeite.",
+      "Misture tudo com um pouco da água do cozimento e pimenta."
+    ]
+  },
+  {
+    "id": 10,
+    "n": "Arroz, feijão e ovo frito",
+    "e": "🍛",
+    "c": "#e9d5c3",
+    "t": 25,
+    "m": "Almoço",
+    "v": 1,
+    "i": ["arroz","feijão","ovos","alho","cebola"],
+    "l": [
+      "1 1/2 xícara de arroz cozido",
+      "1 xícara de feijão cozido com caldo",
+      "2 ovos",
+      "2 dentes de alho picados",
+      "1/2 cebola picada",
+      "2 colheres de sopa de óleo"
+    ],
+    "s": [
+      "Refogue cebola e alho e tempere o feijão cozido.",
+      "Aqueça o arroz.",
+      "Frite os ovos e sirva por cima."
+    ]
+  },
+  {
+    "id": 11,
+    "n": "Strogonoff de frango",
+    "e": "🍲",
+    "c": "#efc3a8",
+    "t": 40,
+    "m": "Almoço",
+    "v": 0,
+    "i": ["frango","creme de leite","cebola","alho","tomate"],
+    "l": [
+      "400 g de peito de frango em cubos",
+      "1 caixinha de creme de leite (200 g)",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "2 tomates médios picados",
+      "1 colher de sopa de óleo",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Doure o frango em cubos com cebola e alho.",
+      "Junte o tomate picado e cozinhe 10 minutos.",
+      "Desligue o fogo e misture o creme de leite."
+    ]
+  },
+  {
+    "id": 12,
+    "n": "Risoto de abobrinha",
+    "e": "🥘",
+    "c": "#d9e6cf",
+    "t": 40,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["arroz","abobrinha","cebola","alho","queijo"],
+    "l": [
+      "1 xícara de arroz arbóreo",
+      "1 abobrinha média picada",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1/2 xícara de queijo parmesão ralado (50 g)",
+      "3 xícaras de caldo de legumes quente (720 ml)",
+      "1 colher de sopa de azeite"
+    ],
+    "s": [
+      "Refogue cebola, alho e o arroz cru.",
+      "Adicione caldo quente aos poucos, mexendo.",
+      "Junte a abobrinha picada e finalize com queijo."
+    ]
+  },
+  {
+    "id": 13,
+    "n": "Bolinho de arroz",
+    "e": "🍘",
+    "c": "#efe0b8",
+    "t": 25,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["arroz","ovos","queijo","cebola"],
+    "l": [
+      "2 xícaras de arroz cozido",
+      "1 ovo",
+      "1/2 xícara de queijo ralado (50 g)",
+      "2 colheres de sopa de cebola picada",
+      "1 xícara de óleo para fritar (ou asse sem óleo)"
+    ],
+    "s": [
+      "Misture o arroz cozido, ovo, queijo e cebola picada.",
+      "Modele bolinhos.",
+      "Frite ou asse até dourar."
+    ]
+  },
+  {
+    "id": 14,
+    "n": "Salada de grão-de-bico",
+    "e": "🥗",
+    "c": "#d9e6cf",
+    "t": 10,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["grão-de-bico","tomate","cebola","pepino","limão"],
+    "l": [
+      "1 xícara de grão-de-bico cozido (160 g)",
+      "1 tomate médio picado",
+      "1/4 de cebola picada",
+      "1/2 pepino picado",
+      "suco de 1/2 limão",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Escorra o grão-de-bico.",
+      "Pique tomate, pepino e cebola.",
+      "Misture tudo com limão, azeite e sal."
+    ]
+  },
+  {
+    "id": 15,
+    "n": "Sopa de legumes",
+    "e": "🥣",
+    "c": "#f1e2b8",
+    "t": 40,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["cenoura","batata","abobrinha","cebola","alho"],
+    "l": [
+      "2 cenouras médias em cubos",
+      "2 batatas médias em cubos",
+      "1 abobrinha média em cubos",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1 colher de sopa de azeite",
+      "1 litro de água",
+      "1 colher de chá de sal"
+    ],
+    "s": [
+      "Refogue cebola e alho.",
+      "Junte os legumes em cubos e cubra com água.",
+      "Cozinhe 25 minutos e acerte o sal."
+    ]
+  },
+  {
+    "id": 16,
+    "n": "Batata assada com alho",
+    "e": "🥔",
+    "c": "#e6cda8",
+    "t": 45,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["batata","alho","azeite","alecrim"],
+    "l": [
+      "4 batatas médias (cerca de 600 g)",
+      "4 dentes de alho com casca, levemente amassados",
+      "3 colheres de sopa de azeite",
+      "2 ramos de alecrim",
+      "1 colher de chá de sal"
+    ],
+    "s": [
+      "Corte as batatas e tempere com azeite, alho e alecrim.",
+      "Espalhe em uma assadeira.",
+      "Asse a 200 °C por 35 minutos."
+    ]
+  },
+  {
+    "id": 17,
+    "n": "Purê de batata cremoso",
+    "e": "🥔",
+    "c": "#f1e2b8",
+    "t": 30,
+    "m": "Almoço",
+    "v": 1,
+    "i": ["batata","leite","manteiga"],
+    "l": [
+      "4 batatas médias (cerca de 600 g)",
+      "1/2 xícara de leite morno (120 ml)",
+      "2 colheres de sopa de manteiga",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Cozinhe as batatas até ficarem macias.",
+      "Amasse ainda quentes.",
+      "Misture leite morno e manteiga até ficar cremoso."
+    ]
+  },
+  {
+    "id": 18,
+    "n": "Frango grelhado com legumes",
+    "e": "🍗",
+    "c": "#e6cda8",
+    "t": 35,
+    "m": "Almoço",
+    "v": 0,
+    "i": ["frango","cenoura","abobrinha","alho","limão"],
+    "l": [
+      "2 filés de peito de frango (cerca de 300 g)",
+      "1 cenoura média em fatias",
+      "1 abobrinha média em fatias",
+      "2 dentes de alho picados",
+      "suco de 1 limão",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Tempere o frango com alho, limão e sal.",
+      "Grelhe 6 minutos de cada lado.",
+      "Salteie a cenoura e a abobrinha e sirva junto."
+    ]
+  },
+  {
+    "id": 19,
+    "n": "Carne moída com batata",
+    "e": "🥩",
+    "c": "#e8cfc9",
+    "t": 40,
+    "m": "Almoço",
+    "v": 0,
+    "i": ["carne moída","batata","cebola","alho","tomate"],
+    "l": [
+      "300 g de carne moída",
+      "3 batatas médias em cubos",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "2 tomates médios picados",
+      "1 colher de sopa de óleo",
+      "1 xícara de água (240 ml)",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Refogue a carne com cebola e alho.",
+      "Junte tomate e batata em cubos.",
+      "Cubra com água e cozinhe até a batata amaciar."
+    ]
+  },
+  {
+    "id": 20,
+    "n": "Torrada com ovo e abacate",
+    "e": "🥑",
+    "c": "#d9e6cf",
+    "t": 10,
+    "m": "Brunch",
+    "v": 1,
+    "i": ["pão","ovos","abacate","limão"],
+    "l": [
+      "2 fatias de pão",
+      "2 ovos",
+      "1 abacate maduro",
+      "suco de 1/2 limão",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Torre o pão.",
+      "Amasse o abacate com limão e sal.",
+      "Espalhe na torrada e cubra com o ovo cozido ou frito."
+    ]
+  },
+  {
+    "id": 21,
+    "n": "Crepioca de queijo",
+    "e": "🥞",
+    "c": "#f1e2b8",
+    "t": 10,
+    "m": "Brunch",
+    "v": 1,
+    "i": ["ovos","tapioca","queijo"],
+    "l": [
+      "1 ovo",
+      "2 colheres de sopa de tapioca",
+      "2 fatias de queijo (40 g)",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Misture ovo e 2 colheres de tapioca.",
+      "Despeje na frigideira antiaderente.",
+      "Recheie com queijo e dobre."
+    ]
+  },
+  {
+    "id": 22,
+    "n": "Torta de liquidificador com legumes",
+    "e": "🥧",
+    "c": "#efe0b8",
+    "t": 45,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["ovos","leite","farinha de trigo","cenoura","queijo"],
+    "l": [
+      "3 ovos",
+      "1 xícara de leite (240 ml)",
+      "1 xícara de farinha de trigo",
+      "1 cenoura média ralada",
+      "1 xícara de queijo ralado (100 g)",
+      "1 colher de sopa de fermento em pó (junte por último)"
+    ],
+    "s": [
+      "Bata ovos, leite e farinha no liquidificador.",
+      "Misture cenoura ralada e queijo.",
+      "Asse a 180 °C por 35 minutos."
+    ]
+  },
+  {
+    "id": 23,
+    "n": "Peixe assado com limão",
+    "e": "🐟",
+    "c": "#d5e2e6",
+    "t": 30,
+    "m": "Jantar",
+    "v": 0,
+    "i": ["peixe","limão","alho","tomate"],
+    "l": [
+      "2 filés de peixe branco (cerca de 400 g)",
+      "suco de 1 limão",
+      "2 dentes de alho picados",
+      "2 tomates em fatias",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Tempere o peixe com limão, alho e sal.",
+      "Disponha sobre fatias de tomate.",
+      "Asse a 200 °C por 20 minutos."
+    ]
+  },
+  {
+    "id": 24,
+    "n": "Cuscuz com ovo",
+    "e": "🌽",
+    "c": "#efe0b8",
+    "t": 15,
+    "m": "Brunch",
+    "v": 1,
+    "i": ["cuscuz","ovos","tomate","cebola"],
+    "l": [
+      "1 xícara de flocão de milho",
+      "3/4 de xícara de água (180 ml)",
+      "2 ovos",
+      "1 tomate médio picado",
+      "1/2 cebola picada",
+      "1 colher de sopa de óleo",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Hidrate a farinha de milho e cozinhe no vapor.",
+      "Refogue cebola e tomate.",
+      "Sirva com ovo mexido ou frito."
+    ]
+  },
+  {
+    "id": 25,
+    "n": "Lentilha com arroz",
+    "e": "🍛",
+    "c": "#e9d5c3",
+    "t": 35,
+    "m": "Almoço",
+    "v": 1,
+    "i": ["lentilha","arroz","cebola","alho","cenoura"],
+    "l": [
+      "1 xícara de lentilha",
+      "1 cenoura média picada",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1 1/2 xícara de arroz cozido",
+      "3 xícaras de água (720 ml)",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Cozinhe a lentilha com cenoura picada.",
+      "Refogue cebola e alho e junte à lentilha.",
+      "Misture com o arroz cozido."
+    ]
+  },
+  {
+    "id": 26,
+    "n": "Macarrão ao molho de tomate fresco",
+    "e": "🍝",
+    "c": "#ebc2b6",
+    "t": 30,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["macarrão","tomate","alho","cebola","manjericão"],
+    "l": [
+      "200 g de macarrão",
+      "5 tomates maduros picados (cerca de 600 g)",
+      "2 dentes de alho picados",
+      "1/2 cebola picada",
+      "6 folhas de manjericão",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Refogue cebola e alho e junte os tomates picados.",
+      "Cozinhe 15 minutos até virar molho.",
+      "Misture ao macarrão e finalize com manjericão."
+    ]
+  },
+  {
+    "id": 27,
+    "n": "Berinjela à parmegiana",
+    "e": "🍆",
+    "c": "#e8cfc9",
+    "t": 50,
+    "m": "Jantar",
+    "v": 1,
+    "i": ["berinjela","tomate","queijo","ovos"],
+    "l": [
+      "1 berinjela grande (cerca de 500 g) em fatias",
+      "3 tomates maduros batidos (molho)",
+      "200 g de queijo muçarela fatiado",
+      "2 ovos batidos",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Fatie a berinjela, passe no ovo e asse até dourar.",
+      "Monte camadas com molho de tomate e queijo.",
+      "Gratine por 15 minutos."
+    ]
+  },
+  {
+    "id": 28,
+    "n": "Quesadilla de queijo e espinafre",
+    "e": "🌮",
+    "c": "#cfe0c4",
+    "t": 15,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["tortilha","queijo","espinafre","tomate"],
+    "l": [
+      "2 tortilhas grandes",
+      "1 xícara de queijo muçarela ralado (100 g)",
+      "1/2 xícara de espinafre (25 g)",
+      "1 tomate pequeno picado",
+      "1 colher de chá de azeite"
+    ],
+    "s": [
+      "Recheie a tortilha com queijo, espinafre e tomate.",
+      "Dobre ao meio.",
+      "Doure dos dois lados na frigideira."
+    ]
+  },
+  {
+    "id": 29,
+    "n": "Sanduíche natural de frango",
+    "e": "🥪",
+    "c": "#f1e2b8",
+    "t": 15,
+    "m": "Refeição rápida",
+    "v": 0,
+    "i": ["pão","frango","cenoura","maionese"],
+    "l": [
+      "4 fatias de pão",
+      "1 xícara de frango cozido e desfiado (150 g)",
+      "1 cenoura pequena ralada",
+      "2 colheres de sopa de maionese",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Desfie o frango cozido.",
+      "Misture com cenoura ralada e maionese.",
+      "Monte o sanduíche."
+    ]
+  },
+  {
+    "id": 30,
+    "n": "Abobrinha refogada com ovos",
+    "e": "🥒",
+    "c": "#d9e6cf",
+    "t": 15,
+    "m": "Refeição rápida",
+    "v": 1,
+    "i": ["abobrinha","ovos","cebola","alho"],
+    "l": [
+      "1 abobrinha média em rodelas",
+      "3 ovos",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1 colher de sopa de azeite",
+      "1 pitada de sal"
+    ],
+    "s": [
+      "Refogue cebola e alho.",
+      "Junte a abobrinha em rodelas e cozinhe 5 minutos.",
+      "Adicione os ovos batidos e mexa até firmar."
+    ]
+  }
+]
