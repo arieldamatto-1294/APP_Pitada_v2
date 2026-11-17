@@ -6,12 +6,12 @@ Receitas com o que você tem em casa. Você informa os ingredientes da geladeira
 
 🥫 Funcionalidades 🥫
 
-Busca de receitas por ingredientes (sem diferenciar acentos e maiúsculas), com opção de despensa básica (azeite, sal e pimenta)
-Filtros (até 30 min, vegetariana, só com o que tenho, tipo de refeição) e ordenação por melhor combinação ou tempo
-Detalhe da receita com quantidades exatas e modo de preparo
-Criar conta, entrar e sair
-Receitas favoritas (exige login)
-Loja com carrinho (quantidades, remoção, total) e finalização de compra com login
+- Busca de receitas por ingredientes (sem diferenciar acentos e maiúsculas), com opção de despensa básica (azeite, sal e pimenta)
+- Filtros (até 30 min, vegetariana, só com o que tenho, tipo de refeição) e ordenação por melhor combinação ou tempo
+- Detalhe da receita com quantidades exatas e modo de preparo
+- Criar conta, entrar e sair
+- Receitas favoritas (exige login)
+- Loja com carrinho (quantidades, remoção, total) e finalização de compra com login
 
 ⚙️ Tecnologias ⚙️
 
