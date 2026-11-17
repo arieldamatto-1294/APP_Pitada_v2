@@ -12,6 +12,7 @@ Detalhe da receita com quantidades exatas e modo de preparo
 Criar conta, entrar e sair
 Receitas favoritas (exige login)
 Loja com carrinho (quantidades, remoção, total) e finalização de compra com login
+
 ⚙️ Tecnologias ⚙️
 
 HTML5, CSS, JavaScript, React 18 (via CDN) com JSX compilado no navegador pelo Babel Standalone, localStorage e SQLite (modelagem da base de dados).
